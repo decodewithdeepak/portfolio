@@ -1,3 +1,3 @@
 # Portfolio
 My Portfolio Website
-deepakmodi.netlify.app
+https://deepakmodi.netlify.app
